@@ -49,16 +49,11 @@ To run this project locally, follow these steps:
    ```bash
    cd salary-expectation-analysis
    ```
-3. Create a virtual environment:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
-   ```
-4. Install the dependencies:
+3. Install the dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-5. Open the notebook:
+4. Open the notebook:
    ```bash
    jupyter notebook
    ```
