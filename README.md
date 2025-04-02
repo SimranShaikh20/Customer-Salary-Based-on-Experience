@@ -1,4 +1,4 @@
-# 📊 Salary Expectation Analysis Based on Experience
+# 📊 Customer Salary Based on Experience
 
 ## 📌 Project Overview
 This project focuses on analyzing and predicting salary expectations based on professional experience. Using data analysis, visualization, and predictive modeling techniques, it uncovers trends and patterns in salary expectations.
